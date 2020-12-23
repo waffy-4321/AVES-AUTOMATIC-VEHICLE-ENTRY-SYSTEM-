@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="images">
+    <file>update.png</file>
+    <file>access granted.jpg</file>
+    <file>check1.jpg</file>
+    <file>submit11.png</file>
+    <file>submit1.png</file>
+    <file>OWNER NAME.PNG</file>
+    <file>blank.jpg</file>
+    <file>back1.png</file>
+    <file>check.png</file>
+    <file>ocr.png</file>
+    <file>numberplate.PNG</file>
+    <file>text.png</file>
+    <file>240_F_270099822_9zbx236dHn1hyxYNl9HSOBvpUEpU0eOz.jpg</file>
+    <file>PROCESS 1.png</file>
+    <file>PROCESS 2.png</file>
+    <file>PROCESS 3.png</file>
+    <file>111.jpeg</file>
+    <file>downloa1d.png</file>
+    <file>240_F_270099822_9zbx236dHn1hyxYNl9HSOBvpUEpU0eOz.jpg</file>
+    <file>capture.jpg</file>
+    <file>computer-icons-arrow-button-next-step-png-clip-art.png</file>
+    <file>open-camera.jpg</file>
+  </qresource>
+</RCC>
