@@ -1,6 +1,7 @@
 # AVES-AUTOMATIC-VEHICLE-ENTRY-SYSTEM-
 Hello Humans,
-I'm tell you some tips which are helps to run this project in your system:
+Today, many people visit offices, malls, societies, etcetera, and before entering they must manually enter their data. Sometimes, people forget to do this, and as a result, they are marked absent. To solve this issue, I created this application so that when any vehicle enters the office building, it will scan the car plate number and his entry can be done automatically.
+I'm telling you some tips which are helps to run this project in your system:
 1. Create some folders like: Capture_image, Cropped_image 
 2. Change paths according to your system
 3. Run On Visual Studio Code
