@@ -1,5 +1,5 @@
 # AVES-AUTOMATIC-VEHICLE-ENTRY-SYSTEM-
-Video Demo: < https://youtu.be/gsBzScDTuR8 >
+Video Demo: < https://youtu.be/2-64yEK0doE >
 Description
 Hello Humans,
 Today, many people visit offices, malls, societies, etc., and before entering they must manually enter their data. Sometimes, people forget to do this, and as a result, they are marked absent. To solve this issue, I created this application so that when any vehicle enters the office building, it will scan the car plate number and his entry can be done automatically.
